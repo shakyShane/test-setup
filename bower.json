@@ -1,0 +1,19 @@
+{
+  "name": "front-end-test",
+  "version": "0.0.0",
+  "authors": [
+    "Shane Osbourne <shakyshanegmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.1",
+    "requirejs": "~2.1.15"
+  }
+}
