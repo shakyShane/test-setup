@@ -1,3 +1,18 @@
 {
-  "error": true
+  "success": false,
+  "selector": ".cart-success", // optional
+  "html": "ERROR",
+  "product": {
+    "name": "Shirt",
+    "short_description": "Nice Shirt",
+    "description": "Nice Shirt",
+    "qty": 1,
+    "sku": "DEF122",
+    "options": {},
+    "attributes": {}
+  },
+  "cart": {
+    "qty": 2,
+    "total": "Â£25.00"
+  }
 }
